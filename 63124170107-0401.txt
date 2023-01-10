@@ -1,0 +1,213 @@
+<html>
+    <head>
+        <title> งานที่ 4.1 นายสรัณกร พอจิต (107) </title>
+    </head>
+<body bgcolor = "brown" text ="yellow">
+
+<!--ชื่อของตาราง คือ ตารางอาหารฮ่องกง-->
+<img src="yellow china.png" width ="90" height ="100"></img>
+ &nbsp;<b><font size="15">ตารางอาหารฮ่องกง</font></b>
+ <img src="yellow china.png" width ="90" height ="100"></img><br>
+ <br>
+ <hr width="1500" size="2" color="yellow"><br>
+
+<!--เริ่มสร้างตาราง-->
+<table border="1" width = "800" height = "60" bgcolor ="#06A406">
+<!--หัวข้อตาราง-->
+<tr>
+    <th bgcolor ="#DA0529"><img src="lamp no b.png"  width = "60" height = "60"></image></th>
+    <th bgcolor ="#DA0529"><font size="6">อาหารฮ่องกง</font></th>
+    <th bgcolor ="#DA0529"><img src="lamp no b.png"  width = "60" height = "60"></image></th>
+</tr>
+<!--ตารางที่ 2-->
+<tr>
+    <th><br><img src="Hong-kong-icon.png" width = "290" height = "250"></img></th>
+    <th><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </th>
+    <th><br><img src="hongkong-food.jpg" width = "290" height = "250"></img></th>
+</tr>
+<!--ตารางที่ 3-->
+<tr>
+    <th><br>รายชื่อเมนูอาหาร</th>
+    <th><br>ส่วนผสม</th>
+    <th><br>วิธีทำ</th>
+</tr>
+<!--ตารางที่ 4-->
+<tr>
+    <td>1. ติ่มซำ (ขนมจีบไส้หมูสับ)<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s359.thaibuffer.com/pagebuilder/8b969581-c9e1-4835-817f-5635c41a094f.jpg" width="230" height="170"></img>
+    </td>
+    <td>&nbsp;&nbsp;1. เนื้อหมูบด 300 กรัม <br>
+        &nbsp;&nbsp;2. เห็ดหอม 3 ดอก <br>
+        &nbsp;&nbsp;3. ต้นหอมซอย 1-2 ต้น <br>
+        &nbsp;&nbsp;4. น้ำตาลทราย 25 กรัม <br>
+        &nbsp;&nbsp;5. น้ำมันงา 1+1/2 ช้อนโต๊ะ <br>
+        &nbsp;&nbsp;6. น้ำมันหอย 3 ช้อนโต๊ะ <br>
+        &nbsp;&nbsp;7. แป้งข้าวโพด 1 ช้อนโต๊ะ <br>
+        &nbsp;&nbsp;8. พริกไทยป่น 2 ช้อนชา <br>
+        &nbsp;&nbsp;9. ผงปรุงรสไก่ 1/2 ช้อนชา <br>
+        &nbsp;&nbsp;10.น้ำ 30 กรัม <br>
+        &nbsp;&nbsp;11.แผ่นเกี๊ยวสำหรับทำขนมจีบ <br>
+        &nbsp;&nbsp;12.กระเทียมเจียว <br>
+        &nbsp;&nbsp;13.น้ำมันกระเทียมเจียว <br>
+    </td>
+    <td>&nbsp;&nbsp;1. ใส่หมูบดกับเห็ดหอมสับลงในอ่างผสม เติมน้ำตาลทราย น้ำมันงา น้ำมันหอย แป้งข้าวโพด พริกไทยป่น และผง <br>
+        ปรุงรสไก่ ใส่ต้นหอม แล้วคนผสมให้เข้ากัน เติมน้ำเปล่าลงไป คนจนหมูเริ่มเหนียวแล้วหมักหมูไว้ 1 ชั่วโมง <br>
+        &nbsp;&nbsp;2. ตักหมูบดที่หมักไว้ใส่ในแผ่นเกี๊ยวแล้วจับจีบให้สวยงาม <br>
+        &nbsp;&nbsp;3. นำไปนึ่งไฟกลางเป็นเวลา 10 นาที <br>
+        &nbsp;&nbsp;4. พอนึ่งเสร็จแล้วทาด้วยน้ำมันหอมเจียว และโรยหน้าด้วยกระเทียมเจียว พร้อมเสิร์ฟ <br>
+    </td>
+</tr>
+<!--ตารางที่ 5-->
+<tr>
+    <td>2. ห่านย่าง-เป็ดย่าง สไตล์ฮ่องกง<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://tourdefood.net/wp-content/uploads/2021/07/a-3.jpg" width="230" height="170"></img>
+    </td>
+    <td>&nbsp;&nbsp;1. ห่าน 1 ตัว <br>
+        &nbsp;&nbsp;2. เกลือ 4 ชช.<br>
+        &nbsp;&nbsp;3. สีผสมอาหารสีแดง 1- 2 ชช.<br>
+        &nbsp;&nbsp;4. น้ำผึ้ง 3 ชต.<br>
+        &nbsp;&nbsp;5. น้ำตาลทรายแดง 1 ชช.<br>
+        &nbsp;&nbsp;6. ซีอิ๊วดำหวาน 2 ชต.<br>
+        &nbsp;&nbsp;7. น้ำส้มสายชู 2 ชช.<br>
+        &nbsp;&nbsp;8. ผงผะโล้ 1 ชช.<br>
+        &nbsp;&nbsp;9. รากผักชีตำละเอียด 1 ชต.<br>
+        &nbsp;&nbsp;10.ราผักชีทุบ 3 - 4 ราก<br>
+        &nbsp;&nbsp;11.ขิงแว่นทุบ 3 - 4 แว่น<br>
+        &nbsp;&nbsp;12.น้ำอุ่น 3 - 5 ชต.<br>
+    </td>
+    <td>&nbsp;&nbsp;1. นำห่านมาล้างด้วยน้ำเปล่าสะอาด และนำไปต้มให้เดือดประมาณ 25 นาที จนเริ่มสุกทั้งตัว ด้วยไฟแรง <br>
+        &nbsp;&nbsp;2. เมื่อครบ 25 นาทีแล้ว ให้นำห่านไปแขวนไว้ให้ลมพัดให้แห้งประมาณ 10 นาที<br>
+        &nbsp;&nbsp;3. นำผงผะโล้ เกลือ สีผสมอาหารสีแดง น้ำผึ้ง น้ำตาลทรายแดง ซีอิ๊วดำหวาน และน้ำส้มสายชู มาใส่ในภาชนะและ<br>
+        ทำการคนส่วนผสมทั้งหมดให้เข้ากันจนละลาย<br>
+        &nbsp;&nbsp;4. นำขิงแว่น รากผักชี ยัดใส่เข้าไปในลำตัวท้องของห่าน เพื่อให้ห่านมีกลิ่นหอมของเครื่องเทศช่วย<br>
+        &nbsp;&nbsp;5. นำส่วนผสมของเครื่องปรุงมาราดตามลำตัวของห่านให้ทั่ว ก่อนที่จะนำเข้าตู้อบ โดยจะใช้อุณหภูมิประมาณ 170 - 180 องศา หรือประมาณ 20 นาที<br>
+        &nbsp;&nbsp;6. เมื่อครบเวลาที่กำนดให้นำเนื้อเป็ดออกมทา พร้อมนำมาแร่เป็นชิ้นพอดีคำ<br>
+        &nbsp;&nbsp;7. จัดวางใส่จาน พร้อมเสริฟ์และรับประทานได้ทันที<br>
+    </td>
+</tr>
+<!--ตารางที่ 6-->
+<tr>
+    <td><br><br>3. บะหมี่เกี๊ยวฮ่องกง (บะหมี่เกี๊ยวหมู) มี 3 ขั้นตอน<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img-prod.api-onscene.com/cdn-cgi/image/format=auto,width=1600/https://sls-prod.api-onscene.com/partner_files/trueidintrend/133714/20200502_115241_0001.png" width="260" height="190"></img>
+    </td>
+    <td></td>
+    <td></td>
+</tr>
+<!--ตารางที่ 7-->
+<tr>
+    <td>3.1. ทำน้ำซุป<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img-prod.api-onscene.com/cdn-cgi/image/format=auto%2Cwidth=1600%2Cheight=900/https://sls-prod.api-onscene.com/partner_files/trueidintrend/133714/20200125_112302-01.jpeg" width="230" height="170"></img>
+    </td>
+    <td> &nbsp;&nbsp;1). ซี่โครงหมู 1 กิโลกรัม<br>
+         &nbsp;&nbsp;2). รากผักชี 2 - 3 ราก ทุบให้พอแหลก (ถ้าไม่มีไม่ต้องใส่ก็ได้)<br>
+         &nbsp;&nbsp;3). น้ำตาล 4 ช้อนโต๊ะ<br>
+         &nbsp;&nbsp;4). ผงปรุงรส 3 ช้อนโต๊ะ<br>
+         &nbsp;&nbsp;5). เกลือ 1 ช้อนโต๊ะ<br>
+         &nbsp;&nbsp;6). พริกไทยป่น 2 ช้อนโต๊ะ<br>
+         &nbsp;&nbsp;7). น้ำมันหอย 4 ช้อนโต๊ะ<br>
+         &nbsp;&nbsp;8). น้ำสะอาดประมาณ 2 ลิตร<br>
+         &nbsp;&nbsp;9). กระเทียม 2 หัว ซอยละเอียด (สำหรับทำกระเทียมเจียวโรยบะหมี่)<br>
+         &nbsp;&nbsp;10).น้ำมัน 1 ถ้วย (สำหรับทำกระเทียมเจียวโรยบะหมี่)<br>
+    </td>
+    <td>&nbsp;&nbsp;1). ตั้งหม้อต้มน้ำเปิดไฟปานกลาง เมื่อน้ำเริ่มเดือดใส่รากผักชี และกระดูกหมูลงไปต้ม ระหว่างนี้จะเริ่มมีฟอง<br>
+        ลอยขึ้นมาให้ค่อย ๆ ตักทิ้งไปเรื่อย ๆ จนกว่าฟองจะหมด<br>
+        &nbsp;&nbsp;2). จากนั้นเปิดไฟอ่อน ปรุงรสตามใจชอบด้วยน้ำตาล ผงปรุงรส เกลือ พริกไทยป่น และน้ำมันหอย<br> 
+        เคี่ยวน้ำซุปอีกประมาณ 30 - 45 นาที<br>
+        &nbsp;&nbsp;3). ระหว่างที่รอน้ำซุปได้ที่ก็นำกระเทียมมาเจียวในน้ำมัน ใส่รากผักชีลงไป (หากไม่มีไม่ต้องใส่ก็ได้)<br> 
+        เจียวไปเรื่อย ๆ ให้กระเทียมเริ่มมีกลิ่นหอม เป็นอันใช้ได้<br>
+    </td>
+</tr>
+<!--ตารางที่ 8-->
+<tr>
+    <td><br><br>3.2. ทำเกี๊ยวหมูสับ<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img-prod.api-onscene.com/cdn-cgi/image/format=auto%2Cwidth=1600%2Cheight=900/https://sls-prod.api-onscene.com/partner_files/trueidintrend/133714/20200420_113245-01.jpeg" width="230" height="170"></img>
+    </td>
+    <td>
+        &nbsp;&nbsp;1). แผ่นเกี๊ยว 1 ถุง หรือจำนวนตามต้องการ<br>
+        &nbsp;&nbsp;2). หมูสับ 1-2 กิโลกรัม<br>
+        &nbsp;&nbsp;3). น้ำมันงา 2 ช้อนโต๊ะ<br>
+        &nbsp;&nbsp;4). ผงปรุงรส 2 ช้อนโต๊ะ<br>
+        &nbsp;&nbsp;5). น้ำตาล 2 ช้อนโต๊ะ<br>
+        &nbsp;&nbsp;6). พริกไทยป่น 2 ช้อนโต๊ะ<br>
+    </td>
+    <td>
+        &nbsp;&nbsp;1). ปรุงรสหมูสับด้วยน้ำมันงา ผงปรุงรส น้ำตาล และพริกไทยป่นคลุกเคล้าให้เข้ากัน<br> 
+        จากนั้นนำแผ่นเกี๊ยวมาห่อหมูสับที่หมักไว้<br>
+        &nbsp;&nbsp;2). วิธีห่อมีหลากหลายวิธี แต่เราจะสอนวิธีการห่อแบบง่ายคือ ม้วนปิดแผ่นเกี๊ยว จากนั้นให้มือขยุ้มซ้าย<br> 
+        และขวา<br>
+        &nbsp;&nbsp;3). ทำไปเรื่อย ๆ จนไส้เกี๊ยวที่หมักไว้หมด<br>
+        &nbsp;&nbsp;4). ตั้งหม้อต้มน้ำ เปิดไฟปานกลาง รอให้น้ำเดือดจากนั้นนำเกี๊ยวลงไปลวก เพียงเท่านี้<br>
+        ก็จะได้เกี๊ยวหมู ไส้นุ่ม รสเข้มข้น<br>
+    </td>
+</tr>
+<!--ตารางที่ 9-->
+<tr>
+    <td><br><br>3.3. ทำบะหมี่เกี๊ยวฮ่องกง (บะหมี่เกี๊ยวหมู)<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img-prod.api-onscene.com/cdn-cgi/image/format=auto%2Cwidth=1600%2Cheight=900/https://sls-prod.api-onscene.com/partner_files/trueidintrend/133714/20200420_114535-01.jpeg" width="230" height="170"></img>
+    </td>
+    <td>
+        &nbsp;&nbsp;1). น้ำซุป<br>
+        &nbsp;&nbsp;2). เกี๊ยวหมูสับ<br>
+        &nbsp;&nbsp;3). เส้นหมี่เหลืองหรือหมี่เขียวก็ได้<br>
+        &nbsp;&nbsp;4). ผักกวางตุ้ง<br>
+        &nbsp;&nbsp;5). กระเทียมเจียว<br>
+    </td>
+    <td>
+        &nbsp;&nbsp;1). ตั้งหม้อต้มน้ำเปิดไฟแรง นำผักกวางตุ้ง และเส้นบะหมี่ไปลวกให้สุก<br>
+        &nbsp;&nbsp;2). นำเส้นบะหมี่ ผัก และเกี๊ยวจัดใส่ชาม ใส่กระดูกหมู พร้อมราดน้ำซุปรสกลมกล่อม โรยด้วยกระเทียมเจียว เสิร์ฟขึ้นโต๊ะพร้อมทานได้
+    </td>
+</tr>
+<!--ตารางที่ 10-->
+<tr>
+    <td>4. วาฟเฟิลฮ่องกง<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://amberbakersupply.com/wp-content/uploads/2021/09/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%81%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B9%892-01-1398x800.png" width="230" height="170"></img>
+    </td>
+    <td>
+        &nbsp;&nbsp;1). แป้งวาฟเฟิลฮ่องกงสำเร็จรูป 1 ถุง (1,000 กรัม) <br>
+        &nbsp;&nbsp;2). ไข่ไก่ 5 ฟอง<br>
+        &nbsp;&nbsp;3). น้ำเปล่า 480 มิลลิลิตร<br>
+        &nbsp;&nbsp;4). น้ำมันพืช 45 กรัม (3 ช้อนโต๊ะ)<br>
+        &nbsp;&nbsp;5). กลิ่นตามชอบ (เช่น ช็อกโกแล็ต,สตอเบอรี่,เป็นต้น)<br>
+        &nbsp;&nbsp;6). โถผสมแป้ง 1 ใบ<br>
+        &nbsp;&nbsp;7). ตะกร้อมือ 1 อัน<br>
+        &nbsp;&nbsp;8). ถ้วยตวง 1 ใบ<br>
+        &nbsp;&nbsp;9). โหลสำหรับใส่แป้งที่ผสมแล้ว 1 ใบ<br>
+        &nbsp;&nbsp;10). เครื่องทำวาฟเฟิลฮ่องกง 1 เครื่อง<br>
+        &nbsp;&nbsp;11). ถ้วยตวง 1 ใบ<br>
+    </td>
+    <td>
+        &nbsp;&nbsp;1. เริ่มจากตอกไข่ 5 ฟองลงในโถผสมแป้ง ตามด้วยน้ำเปล่า 450 มิลลิลิตร คนให้พอเข้ากัน<br>
+        &nbsp;&nbsp;2. จากนั้นเทแป้งวาฟเฟิลฮ่องกงสำเร็จรูปลงในโถผสมแป้ง ผสมให้เข้ากัน<br>
+        &nbsp;&nbsp;3. เติมน้ำมันพืช 45 กรัม ขั้นตอนนี้สามารถแต่งกลิ่นได้ตามใจชอบ ตีแป้งให้ส่วนผสมเข้ากันดี<br> 
+        (เพื่อการประหยัดแรงและเวลาในการผสมแป้ง สามารถใช้เครื่องผสมอาหารแทนได้)<br>
+        &nbsp;&nbsp;4. เก็บรักษาแป้งที่ผสมเรียบร้อยแล้วในภาชนะที่ปิดมิดชิด แนะนำให้พักแป้งไว้ 1 คืน ก่อนนำมาใช้ทำขนม<br>
+        &nbsp;&nbsp;5. วอร์มเตาทําวาฟเฟิลฮ่องกง ตั้งอุณหภูมิที่ 180 องศาเซลเซียส เมื่อเตาพร้อมแล้ว ให้ตวงแป้งที่พักไว้แล้ว 1 คืน<br> 
+        ประมาณ 160 มิลลิลิตร ใส่ไส้ตามต้องการ<br>
+        &nbsp;&nbsp;6. เทแป้งลงบนเตา เกลี่ยให้ทั่วเต็มหน้าเตาทุกหลุม จากนั้นปิดฝาเตาลง แล้วพลิกกลับด้าน ตั้งเวลา 3 นาที<br> 
+        ระหว่างอบจะได้กลิ่นหอมของขนม<br>
+        &nbsp;&nbsp;7. พอครบเวลา พลิกเตากลับด้าน เปิดฝาเตา และเอาพึ่งไว้ 3-7 นาที เพื่อให้ขนมกรอบ นุ่ม พร้อมเสิร์ฟ<br> 
+        นำไปจัดลงจานได้หลายรูปแบบ<br>
+    </td>
+</tr>
+</table>
+<!--เครดิต-->
+<br>
+<hr width="1500" size="2" color="yellow"><br>
+ &nbsp;<b>Copyright รหัสนักศึกษา 63124170107 ชื่อนายสรัณกร พอจิต วิชา การเขียนโปรแกรมระบบเว็บ ปีการศึกษา 2565 </b>
+
+</body>
+</html>
